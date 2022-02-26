@@ -1,6 +1,6 @@
 <h2>Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
 <!-- <hr> -->
-  <ul>
+  <ul style="list-style: none;">
     <li>👀 I’m interested in learning new things.</li>
     <li>🌱 I’m currently Practicing javascript and React.JS</li>
     <li>💞️ I’m looking to collaborate on Web development based project.</li>
