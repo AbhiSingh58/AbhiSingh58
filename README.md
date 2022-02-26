@@ -1,10 +1,5 @@
 <h1 align="center">Hey <a href="https://github.com/AbhiSingh58"><em>Abhi<em></a> This Side ...<h1>
 <!-- <hr> -->
-<div>
-  <p><h2>🔭 I'm currently working on React js.</h2></p>
-  <p>🌱 Ready To learn New Things.</p>
-  <p>👯 I’m looking to collaborate on Node js based project.</p>
-</div> 
 
 
 <!---
