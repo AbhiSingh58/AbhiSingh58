@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
 <!-- <hr> -->
 <div>  
-  <p><h5>👀 I’m interested in learning new things.</h5></p>
-  <p>🌱 I’m currently Practicing javascript and React.JS.</p>
-  <p>💞️ I’m looking to collaborate on Web development based project.</p>
+  <h5>👀 I’m interested in learning new things.</h5>
+  <h5>🌱 I’m currently Practicing javascript and React.JS.</h5>
+  <h5>💞️ I’m looking to collaborate on Web development based project.</h5>
 </div>  
 
 <!---
