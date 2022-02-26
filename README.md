@@ -1,4 +1,4 @@
-<h2 style="text-align:center;">Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
+<h2 align="center">Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
 <!-- <hr> -->
 <ul style="list-style: none;">
   <li>👀 I’m interested in learning new things.</li>
