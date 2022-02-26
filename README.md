@@ -1,5 +1,5 @@
-<h2>Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh<em></a><h2>
-<hr>
+<h2>Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
+<!-- <hr> -->
   <ul>
     <li>👀 I’m interested in learning new things.</li>
     <li>🌱 I’m currently Practicing javascript and React.JS</li>
