@@ -4,7 +4,6 @@
   <li>👀 I’m interested in learning new things.</li>
   <li>🌱 I’m currently Practicing javascript and React.JS</li>
   <li>💞️ I’m looking to collaborate on Web development based project.</li>
-  <li>👀 I’m interested in learning new things.</li>
 </ul>
 
 <!---
