@@ -13,12 +13,12 @@
 - ⚡ Fun fact: I love to Code and Play Basketball.
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/)
+[![website](./img/twitter-dark.svg)](https://twitter.com/)
+[![website](./img/linkedin-light.svg)](https://linkedin.)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/i)
+[![website](./img/instagram-light.svg)](https://instagram.com)
+[![website](./img/instagram-dark.svg)](https://instagram.com/cy)
 
 ### Languages and Tools:
 
@@ -39,9 +39,9 @@
 
 
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/c
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/
 
 
 
