@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I’m <a href="https://github.com/AbhiSingh58"><em>Abhi Singh...<em></a><h2>
+<h2 align="center">Hey <a href="https://github.com/AbhiSingh58"><em>Abhi<em></a> This Side ...<h2>
 <!-- <hr> -->
 <div>  
   <h5>👀 I’m interested in learning new things.</h5>
