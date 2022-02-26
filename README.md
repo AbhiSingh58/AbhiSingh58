@@ -1,6 +1,6 @@
 <h2 align="center">Hey <a href="https://github.com/AbhiSingh58"><em>Abhi<em></a> This Side ...<h2>
 <!-- <hr> -->
-<div>  
+<div align="left">  
   <h5>👀 I’m interested in learning new things.</h5>
   <h5>🌱 I’m currently Practicing javascript and React.JS.</h5>
   <h5>💞️ I’m looking to collaborate on Web development based project.</h5>
