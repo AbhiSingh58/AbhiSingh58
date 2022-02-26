@@ -1,7 +1,7 @@
 <h1 align="center">Hey <a href="https://github.com/AbhiSingh58"><em>Abhi<em></a> This Side ...<h1>
 <!-- <hr> -->
 <div align="left">  
-  <p>👀 I’m interested in learning new things.</p>
+  <p font-size:"100">👀 I’m interested in learning new things.</p>
   <h2>🌱 I’m currently Practicing javascript and React.JS.</h2>
   <h2>💞️ I’m looking to collaborate on Web development based project.</h2>
 </div>  
