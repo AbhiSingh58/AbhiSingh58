@@ -8,14 +8,12 @@
 
 ## I'm a Developer & a Basketballer !!
 
-- 🔭 I'm currently working on *Movie App using React js.*
+- 🔭 I'm currently Nourishing my skills in *React js.*
 - 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate on Node js based project.
-- ⚡ Fun fact: I do standup Comedy.
+- 👯 I’m looking to collaborate on React js based project.
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Abhi Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abhi Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abhi Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
